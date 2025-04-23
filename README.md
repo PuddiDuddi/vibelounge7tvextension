@@ -12,7 +12,7 @@ Go to brave://extensions click on load unpacked and navigate to the downloaded/c
 ![{CCF295CB-F572-4335-BA18-E11DEA027376}](https://github.com/user-attachments/assets/4b5ce917-6954-4619-9044-8958830a3960)
 
 
-This was tested with gql v4 7tv and the lounge 4.4.3
+This was tested with gql v4 7tv endpoint and the lounge 4.4.3
 
 Here's how the emote autocomplete looks
 ![{298A1193-F1E1-417F-AE8C-8F50CAFC8CEF}](https://github.com/user-attachments/assets/4df171a8-6fdb-4985-9fd8-74722483bcac)
