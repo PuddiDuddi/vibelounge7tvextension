@@ -23,7 +23,7 @@ Here's how to get the `vibelounge7tvextension` up and running:
 
     It should look something like this example (replace the example URL with yours!):
 
-    ![Example manifest.json matches section](https://github.com/user-attachments/assets/ca54048a-4476-4522-AD38-A1B77A0B1FCA)
+    ![Example manifest.json matches section](https://github.com/user-attachments/assets/ca54048a-4476-4ad7-be52-727e5a0d5433)
 
 ## Loading in Brave/Chrome
 
