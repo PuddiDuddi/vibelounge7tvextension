@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "TheLounge 7TV Emotes",
+  "version": "0.1",
+  "description": "Displays global 7TV emotes within TheLounge chat messages.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+   },
+        
+  "options_page": "options.html",
+
+  "permissions": [
+    "storage" 
+  ],  
+  "content_scripts": [
+    {
+      // !!! IMPORTANT: Replace these with YOUR TheLounge URLs !!!
+      // Make sure there is NO comma after the LAST URL in this list
+      "matches": ["PLACE YOUR LOUNGE URL HERE"],
+      "js": ["content.js"],
+	  "css": ["style.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  // Host permissions needed for API calls by content script
+  "host_permissions": [
+     "https://7tv.io/*",
+     "https://cdn.7tv.app/*"
+   ]
+  // Note: No "icons" section is included here yet. Add the corrected one if desired.
+}

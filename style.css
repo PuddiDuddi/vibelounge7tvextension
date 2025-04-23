@@ -1,0 +1,57 @@
+/* styles.css */
+
+/* Style for the custom 7TV emote suggestion box */
+.seventv-emote-picker {
+  position: absolute; /* Position near the input field */
+  background-color: #2e2e2e; /* Dark background */
+  border: 1px solid #555;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+  max-height: 200px; /* Limit height and allow scrolling */
+  overflow-y: auto;
+  overflow-x: hidden;
+  z-index: 1000; /* Ensure it appears above other elements */
+  display: none; /* Hidden by default */
+  color: #eee;
+  font-size: 0.9em;
+  min-width: 150px; /* Minimum width */
+}
+
+.seventv-emote-picker ul {
+  list-style: none;
+  padding: 3px;
+  margin: 0;
+}
+
+.seventv-emote-picker li {
+  padding: 4px 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  border-radius: 3px;
+}
+
+.seventv-emote-picker li:hover,
+.seventv-emote-picker li.selected {
+  background-color: #4a4a4a; /* Highlight on hover/selection */
+}
+
+.seventv-emote-picker li img.seventv-emote {
+  width: 20px;  /* Fixed size for picker */
+  height: 20px; /* Fixed size for picker */
+  margin-right: 6px;
+  vertical-align: middle; /* Ensure consistent alignment */
+  object-fit: contain; /* Prevent stretching */
+}
+
+.seventv-emote-picker li span {
+  vertical-align: middle;
+}
+
+/* Optional: Style for hiding TheLounge's default picker */
+/* YOU WILL NEED TO FIND THE CORRECT SELECTOR FOR THIS */
+/* Example selector - THIS WILL LIKELY BE WRONG */
+/* .thelounge-default-emoji-picker-selector {
+  display: none !important;
+} */
