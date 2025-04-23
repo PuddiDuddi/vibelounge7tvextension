@@ -32,6 +32,8 @@ This extension was primarily tested on Brave Browser, but the steps are generall
 1.  Open your browser's extensions page. You can usually do this by typing `brave://extensions` or `chrome://extensions` in the address bar.
 2.  Enable **Developer mode**. This toggle is usually found in the top right corner of the extensions page.
 3.  Click the **Load unpacked** button. This is typically in the top left corner.
+
+
 ![alt text](https://github.com/user-attachments/assets/4b5ce917-6954-4619-9044-8958830a3960)
 5.  Navigate to and select the folder where you downloaded/cloned the `vibelounge7tvextension` repository.
 
