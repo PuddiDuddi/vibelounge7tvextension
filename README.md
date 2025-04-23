@@ -32,7 +32,8 @@ This extension was primarily tested on Brave Browser, but the steps are generall
 1.  Open your browser's extensions page. You can usually do this by typing `brave://extensions` or `chrome://extensions` in the address bar.
 2.  Enable **Developer mode**. This toggle is usually found in the top right corner of the extensions page.
 3.  Click the **Load unpacked** button. This is typically in the top left corner.
-4.  Navigate to and select the folder where you downloaded/cloned the `vibelounge7tvextension` repository.
+![alt text](https://github.com/user-attachments/assets/4b5ce917-6954-4619-9044-8958830a3960)
+5.  Navigate to and select the folder where you downloaded/cloned the `vibelounge7tvextension` repository.
 
 The extension should now appear in your list of installed extensions!
 
@@ -53,7 +54,7 @@ See what the `vibelounge7tvextension` looks like in action!
 **The Clean 7TV Autocomplete:**
 Ditch the default clutter for a simple, 7TV-only selection list.
 
-![Screenshot of the 7TV emote autocomplete in The Lounge](https://github.com/user-attachments/assets/4b5ce917-6954-4619-9044-8958830a3960)
+![Screenshot of the 7TV emote autocomplete in The Lounge](https://github.com/user-attachments/assets/4df171a8-6fdb-4985-9fd8-74722483bcac)
 
 **Adjustable Emote Size:**
 Fine-tune the size of the displayed emotes via the extension options.
