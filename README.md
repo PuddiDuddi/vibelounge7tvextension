@@ -64,4 +64,10 @@ Fine-tune the size of the displayed emotes via the extension options.
 
 ![Screenshot of the extension options page with emote size setting](https://github.com/user-attachments/assets/fab83660-ae15-490c-9cec-1f2b60ab45bc)
 
+By default the extension fetches 2 pages of each category on https://7tv.app/emotes
+You can edit this in manifest.js file, line 27 and 28.
+```
+const MAX_GQL_PAGES_PER_CATEGORY = 2; // Fetch first N pages for EACH category (adjust as needed)
+const GQL_EMOTES_PER_PAGE = 150; // How many emotes per page request (max might be 150 or 200?)
+```
 Enjoy the vibes!
