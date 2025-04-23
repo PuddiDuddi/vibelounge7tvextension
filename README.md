@@ -35,6 +35,7 @@ This extension was primarily tested on Brave Browser, but the steps are generall
 
 
 ![alt text](https://github.com/user-attachments/assets/4b5ce917-6954-4619-9044-8958830a3960)
+
 5.  Navigate to and select the folder where you downloaded/cloned the `vibelounge7tvextension` repository.
 
 The extension should now appear in your list of installed extensions!
