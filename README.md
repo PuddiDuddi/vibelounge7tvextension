@@ -17,6 +17,8 @@ Tested with gql v4 7tv endpoint, the lounge 4.4.3, brave 1.77.100
 Here's how the emote autocomplete looks
 ![{298A1193-F1E1-417F-AE8C-8F50CAFC8CEF}](https://github.com/user-attachments/assets/4df171a8-6fdb-4985-9fd8-74722483bcac)
 
+You can set emote size in the extensions options.
+![{3D7913B6-2C26-4C0F-92F2-632EE9B28C90}](https://github.com/user-attachments/assets/fab83660-ae15-490c-9cec-1f2b60ab45bc)
 
 
 
