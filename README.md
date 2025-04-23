@@ -9,7 +9,8 @@ download/clone the repo, edit manifest.json matches and place your thelounge url
 This was only tested using Brave browser, so here's a quick guide how to load the extension.
 Go to brave://extensions click on load unpacked and navigate to the downloaded/cloned repo.
 
-![{FC7154B1-BD6E-4F49-8CCC-6F77086A5241}](https://github.com/user-attachments/assets/7e861971-726d-4f78-bfcc-437273d5dbba)
+![{CCF295CB-F572-4335-BA18-E11DEA027376}](https://github.com/user-attachments/assets/4b5ce917-6954-4619-9044-8958830a3960)
+
 
 This was tested with gql v4 7tv and the lounge 4.4.3
 
